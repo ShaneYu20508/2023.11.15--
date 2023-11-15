@@ -1,0 +1,14 @@
+    #順序
+npm init --yes
+Enter一直按
+npm i -D eslint nodemon
+npm i linebot axios dotenv
+npx eslint --init
+
+    #筆記
+若執行 npm run dev
+可以分別設定 predev、dev、postdev
+
+會先行執行 predev
+之後再執行 dev
+最後再執行 postdev

@@ -1,0 +1,13 @@
+    #順序
+line developers
+上排 DOcumentataion
+點選 Messaging API
+點擊 Flex Message Simulator
+可以在 Showcase 內尋找自己像要的模板
+點選 View as JSON 即可複製
+
+(最好在 setting.JSON 內新增設定
+"editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+}
+)
